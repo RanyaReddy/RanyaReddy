@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RanyaReddy/RanyaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on instagram @ranya_reddy
 - 😄 Pronouns: Pandu
 - ⚡ Fun fact: More human twins are being born now than ever before.
--->
